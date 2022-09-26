@@ -53,8 +53,9 @@ a {
   width: 400px;
 }
 .profile-pic {
-  height: 150px;
-  border-radius: 50%;
+  height: 200px;
+  width: 130px;
+  border-radius: 30%;
 }
 .twitter-pic {
   height: 50px;
